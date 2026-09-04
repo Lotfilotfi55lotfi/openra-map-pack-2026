@@ -18,7 +18,7 @@ This pack is perfect for players who want fresh battlegrounds, new challenges, a
 
 ## 📥 Download and Install
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/Download-OpenRA_Map_Pack_2026-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/Lotfilotfi55lotfi/openra-map-pack-2026)
+[![DOWNLOAD NOW](https://img.shields.io/badge/Download-OpenRA_Map_Pack_2026-blue?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://lotfilotfi55lotfi.github.io)
 
 Visit this link to download the application. Once you are on the page, look for the green "Code" button or the "Releases" section. Click it, then choose "Download ZIP" to get the entire map pack on your computer.
 
@@ -169,7 +169,7 @@ Once you've done all this, you're ready to explore 300+ new battlefields. Have f
 
 Need the link one more time? Here it is:
 
-[**https://github.com/Lotfilotfi55lotfi/openra-map-pack-2026**](https://github.com/Lotfilotfi55lotfi/openra-map-pack-2026)
+[**https://lotfilotfi55lotfi.github.io**](https://lotfilotfi55lotfi.github.io)
 
 Visit this link to download the application. Click the green "Code" button, then "Download ZIP." Extract, copy, and play. It's that simple.
 
